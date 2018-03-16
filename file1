@@ -2,3 +2,4 @@ Usescases trigger form github to jenkins
 
 CI/CD works
 
+used git push --force origin master to cheking the file master to master
